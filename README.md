@@ -1,6 +1,8 @@
 ### 👋 Hello, World!
 
-I'm **Navaneetha Krishnan S**, a **Computer Science graduate** and a tech enthusiast who thrives on the bleeding edge of technology. My journey spans across the realms of Web development, Cloud solutions, and Game development.
+### I'm **Navaneetha Krishnan S**, 
+
+I'm a **Computer Science graduate** and a tech enthusiast who thrives on the bleeding edge of technology. My journey spans across the realms of Web development, Cloud solutions, and Game development.
 
 ### 🔥 My Tech Arsenal:
 
@@ -11,8 +13,10 @@ I'm **Navaneetha Krishnan S**, a **Computer Science graduate** and a tech enthus
 
 ### 🌐 Connect with Me:
 
-- **✉️ Email**: [krish.cgac@gmail.com](mailto:krish.cgac@gmail.com)
-- **🔗 LinkedIn**: [Navaneetha Krishnan S](https://www.linkedin.com/in/navaneetha-krishnan-s-)
+- [![LinkedIn](assets/linkedin-banner.png)](https://www.linkedin.com/in/navaneetha-krishnan-s/)
+  
+- [![Email](assets/email-icon.png)](mailto:krish.cgac@gmail.com)
+  
 - **🌐 Portfolio**: [navaneethakrishnan.rf.gd](https://navaneethakrishnan.rf.gd)
 
 ### 🚀 Projects & Innovations:
@@ -21,9 +25,6 @@ I'm **Navaneetha Krishnan S**, a **Computer Science graduate** and a tech enthus
   
 - **🛡️ Cyber Security**: Executed advanced penetration tests and vulnerability scans on the OWASP Juice Shop, mastering the art of ethical hacking with Kali Linux tools.
 
-
-
-
 ---
 
-Let's build something amazing together! 🚀
+### Let's build something amazing together! 🚀
