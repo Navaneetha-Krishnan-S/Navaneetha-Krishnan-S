@@ -15,7 +15,7 @@ I'm a **Computer Science graduate** and a tech enthusiast who thrives on the ble
 
 - [![Linkedin Badge](https://img.shields.io/badge/-NavaneethaKrishnan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/riti2409/)](https://www.linkedin.com/in/navaneetha-krishnan-s/)
   
-- [![Gmail Badge](https://img.shields.io/badge/-ritikumariupadhyay24@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:krish.cgac@gmail.com)](mailto:krish.cgac@gmail.com)
+- [![Gmail Badge](https://img.shields.io/badge/-krish.cgac@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:krish.cgac@gmail.com)](mailto:krish.cgac@gmail.com)
   
 - **🌐 Portfolio**: [navaneethakrishnan.rf.gd](https://navaneethakrishnan.rf.gd)
 
