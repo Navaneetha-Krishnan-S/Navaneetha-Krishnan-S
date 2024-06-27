@@ -2,19 +2,21 @@
 
 ### I'm **KRiSH**, 
 
-I'm a **Computer Science graduate** and a tech enthusiast who thrives on the bleeding edge of technology. My journey spans across the realms of Web development, Cloud solutions, and Game development.
+I'm a **Computer Science graduate** and a tech enthusiast who thrives on the bleeding edge of technology. My journey spans across the realms of Web development and Cloud solutions.
 
 ---
 
 ### 🔥 My Tech Arsenal
 
-- **💻 Core Coding** : Python | Bash | SQL
+- **💻 Programming Language** : Python | JavaScript | SQL | Bash
   
-- **🌐 Web Wizardry**: HTML | CSS | JavaScript | React.js
+- **🌐 Front-End**: HTML | CSS | React.js
   
-- **☁️ Cloud**       : Amazon Web Services (AWS)
-  
-- **🎮 Game Dev**    : Unreal Engine
+- **☁️ Cloud | DevOps**       : Amazon Web Services ( EC2, S3, IAM ) | Git, Docker
+   
+- **🗄️ Databases**    : mySQL, MongoDB
+
+- **🛠️ Other Skills**    : Linux, Wordpress, Computer Networks.
 
 ---
 
