@@ -2,21 +2,21 @@
 
 ### I'm **KRiSH**, 
 
-I'm a **Computer Science graduate** and a tech enthusiast who thrives on the bleeding edge of technology. My journey spans across the realms of Web development and Cloud solutions.
+I'm a **Computer Science graduate** and a tech enthusiast who thrives on the bleeding edge of technology. My journey spans across the realms of Software and Front-end Web development.
 
 ---
 
 ### 🔥 My Tech Arsenal
 
-- **💻 Programming Language** : Python | JavaScript | SQL | Bash
+- **💻 Programming Language** : Python | Java | Javascript | SQL
   
 - **🌐 Front-End**: HTML | CSS | React.js
   
 - **☁️ Cloud | DevOps**       : Amazon Web Services ( EC2, S3, IAM ) | Git, Docker
    
-- **🗄️ Databases**    : mySQL, MongoDB
+- **🗄️ Databases**    : mySQL | MongoDB
 
-- **🛠️ Other Skills**    : Linux, Wordpress, Computer Networks.
+- **🛠️ Other Skills**    : Linux | Wordpress
 
 ---
 
