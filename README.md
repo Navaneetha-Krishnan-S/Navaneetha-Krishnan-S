@@ -8,13 +8,11 @@ I'm a **Computer Science graduate** and a tech enthusiast who thrives on the ble
 
 ### 🔥 My Tech Arsenal
 
-- **💻 Programming Language** : Python | Java | Javascript | SQL
+- **💻 Programming Language** : Python | Java | Javascript 
   
-- **🌐 Front-End**: HTML | CSS | React.js
+- **🌐 Front-End**: HTML | CSS (Bootstrap)
   
-- **☁️ Cloud | DevOps**       : Amazon Web Services ( EC2, S3, IAM ) | Git, Docker
-   
-- **🗄️ Databases**    : mySQL | MongoDB
+- **☁️ Cloud | DevOps**       : Amazon Web Services ( EC2, IAM ) | Git, Docker
 
 - **🛠️ Other Skills**    : Linux | Wordpress
 
