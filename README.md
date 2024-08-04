@@ -14,7 +14,7 @@ I'm a **Computer Science graduate** and a tech enthusiast who thrives on the ble
 
 - **🛠️ Tools**    : Git | Google Dorking
 
-- **🛠🗃️  Database**    : MySQL
+- **🗃️  Database**    : MySQL
 
 ---
 
