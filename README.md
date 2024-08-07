@@ -10,9 +10,9 @@ I'm a **Computer Science graduate** and a tech enthusiast who thrives on the ble
 
 - **💻 Programming Language** : Java | Python | 
   
-- **🌐 Front-End**: HTML | CSS | JavaScript
+- **🌐 Front-End**: HTML | CSS | XML
 
-- **🛠️ Tools**    : Git | Google Dorking
+- **🛠️ Tools**    : GitHub | Google Dorking
 
 - **🗃️  Database**    : MySQL
 
