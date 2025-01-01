@@ -8,11 +8,13 @@ I'm a **Computer Science graduate** and a tech enthusiast who thrives on the ble
 
 ### 🔥 My Tech Arsenal
 
-- **💻 Programming Language** : Java | Python | 
+- **💻 Programming Language** : Java | JavaScript | Python
   
-- **🌐 Front-End**: HTML | CSS | XML
+- **🌐 Front-End**: React | Bootstrap
 
-- **🛠️ Tools**    : GitHub | Google Dorking
+- **🌐 Back-End**: Spring Boot 
+
+- **🛠️ Tools**    : GitHub 
 
 - **🗃️  Database**    : MySQL
 
