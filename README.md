@@ -16,7 +16,7 @@ I'm a **Computer Science graduate** and a tech enthusiast who thrives on the ble
 
 - **🛠️ Tools**    : GitHub 
 
-- **🗃️  Database**    : MySQL
+- **🗃️  Database**    : MySQL | Firebase
 
 ---
 
